@@ -8,13 +8,13 @@
     },
     "actor_critic":	"mlp_actor_critic",
     "clip_ratio":	0.2,
-    "env_fn":	"<function <lambda> at 0x1227f4488>",
+    "env_fn":	"<function <lambda> at 0x1081ef7b8>",
     "epochs":	10,
     "exp_name":	"experiment",
     "gamma":	0.99,
     "lam":	0.97,
     "logger":	{
-        "<spinup.utils.logx.EpochLogger object at 0x123b006d8>":	{
+        "<spinup.utils.logx.EpochLogger object at 0x1278a4c18>":	{
             "epoch_dict":	{},
             "exp_name":	"experiment",
             "first_row":	true,
