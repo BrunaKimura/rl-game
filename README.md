@@ -1,5 +1,7 @@
 # rl-game
 
+Bruna Kimura, Elisa Malzoni e Raphael Costa
+
 downloads:
 
 ```
